@@ -81,4 +81,4 @@ class Net(nn.Module):
 本程序采用GPU加速，如果不使用GPU加速，请在main.py文件中删除相关语句。<br>
 本程序使用了visdom可视化工具，如果你没有安装该工具，可以在终端安装，并开启服务使用。如不使用，也可以在main.py文件中删除相关语句。<br>
 本程序使用了torchtext库，方便建立词典，shuffle等操作。<br>
-由于github对上传文件大小的限制，位于wordfiles文件夹中的词向量文件没有上次，如需要在该[链接](https://pan.baidu.com/s/18T6DRVmS_cZu5u64EbbESQ)中下载，并放在wordfiles文件中。<br>
+由于github对上传文件大小的限制，位于wordfiles文件夹中的词向量文件没有上传，如需要在该[链接](https://pan.baidu.com/s/18T6DRVmS_cZu5u64EbbESQ)中下载，并放在wordfiles文件中。<br>
