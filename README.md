@@ -1,7 +1,7 @@
 # 互联网新闻情感分析
 
 ## 1 赛题简介
-赛题简介：[“互联网新闻情感分析”](https://www.datafountain.cn/competitions/350)赛题，是CCF大数据与计算智能大赛赛题之一。对新闻情绪进行分类，0代  表正面情绪、1代表中性情绪、2代表负面情绪。<br>
+赛题简介：[“互联网新闻情感分析”](https://www.datafountain.cn/competitions/350)赛题，是CCF大数据与计算智能大赛赛题之一。对新闻情绪进行分类，0代表正面情绪、1代表中性情绪、2代表负面情绪。<br>
 程序简介：开发工具是pycharm，使用GPU加速。所使用的关键库有pytorch、torchtext、numpy、pandas、visdom等。<br>
 
 ## 2 项目结构
